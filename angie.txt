@@ -3,3 +3,5 @@ Hola mi nombre es Angela
 Estoy probando git 
 
 Voy a proceder con la practica de versiones.
+
+Antes de tomar la siguiente clase, vere otra version de este documento.
