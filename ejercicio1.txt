@@ -1,5 +1,4 @@
 Este es un archivo de texto
+Mañana tomaremos otro curso
 
-Angela nacio en 1992 en la ciudad de Guatemala.
-Buenos dias Angela!
-Hoy estamos en la fecha 24-05-2022 
+Saludos Angela
